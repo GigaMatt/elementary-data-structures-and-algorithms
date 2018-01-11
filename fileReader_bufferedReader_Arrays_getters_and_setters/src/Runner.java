@@ -1,8 +1,10 @@
-/*Matthew S Montoya
- * CS 2401 (17226)
- * Assignment 02
- * September 14, 2016
+/*
+ * By: Matthew S Montoya
+ * Purpose: To practice reading files with buffered reader and file reader, as well as working with classes in separate programs
+ * Last Modified: 11 January 2018
+ * Note: This is the runner file.
  */
+
 import java.io.*;
 
 public class Runner

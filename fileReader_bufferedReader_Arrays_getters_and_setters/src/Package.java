@@ -1,5 +1,9 @@
-//Matthew S Montoya
-
+/*
+ * By: Matthew S Montoya
+ * Purpose: To practice reading files with buffered reader and file reader, as well as working with classes in separate programs
+ * Last Modified: 11 January 2018
+ * Note: This is NOT the runner file.
+ */
 public class Package
 {
   

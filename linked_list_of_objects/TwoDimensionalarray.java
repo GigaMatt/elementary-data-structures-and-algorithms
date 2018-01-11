@@ -1,3 +1,10 @@
+/*
+ * By: Matthew S Montoya
+ * Purpose: To practice creating linked lists of objects and finding their largest and smallest values
+ * Last Modified: 11 January 2018
+ * Note: This is NOT the runner file.
+ */
+
 import java.io.IOException;
 import java.io.FileNotFoundException;
 import java.util.*;

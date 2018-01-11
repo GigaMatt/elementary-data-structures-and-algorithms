@@ -1,5 +1,10 @@
-/*Matthew  S Montoya
- * Runner */
+/*
+ * By: Matthew S Montoya
+ * Purpose: To practice creating linked lists of objects and finding their largest and smallest values
+ * Last Modified: 11 January 2018
+ * Note: This is the runner file.
+ */
+
 import java.util.*;
 import java.io.*;
 public class Runner{
